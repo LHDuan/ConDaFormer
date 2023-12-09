@@ -1,0 +1,14 @@
+image/
+__pycache__
+.ipynb_checkpoints
+**/build/
+**/*.egg-info/
+**/dist/
+*.so
+exp
+ckpts/*
+data
+.vscode
+.idea
+*/.DS_Store
+**/*.out
