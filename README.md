@@ -57,7 +57,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 sh scripts/train.sh -g 4 -d scannet200 -c condaform
 ```
 
 ## Evaluation
-Download the pretrained model [here](https://drive.google.com/drive/folders/1dCq4WxconPEDO8uZq4YDctZ8nxtvEtv8?usp=sharing) 
+Download the pretrained model [here](https://drive.google.com/drive/folders/13VF0-B6165XALgJmocqbZyzU5Dzs1dD4?usp=sharing) 
 and place it under the 'ckpts/' folder.
 Run the following command to evaluate the performance:
 ```bash
